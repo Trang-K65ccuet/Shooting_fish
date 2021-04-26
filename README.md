@@ -4,7 +4,11 @@ Mã LHP: INT 2215-2, N3
 
 1. Hướng dẫn cài đặt
 - Link tải: https://drive.google.com/drive/folders/1VV3-_r49s7apKs6lWocaHqAF3SyqeM8j?fbclid=IwAR2Lim4Xds12u82czDnJ61HMp7kXbS49bjClr9tWENDxRlzYnbhn_js6inw
-![image](https://user-images.githubusercontent.com/79615121/116036868-8498b080-a691-11eb-9bbf-68ad7e74d6d6.png)
+- Cài đặt:
+Chọn Shooting Fish -> Tải xuống
+![image](https://user-images.githubusercontent.com/79615121/116037181-eeb15580-a691-11eb-9f96-53a0aad1ba76.png)
+![image](https://user-images.githubusercontent.com/79615121/116037295-14d6f580-a692-11eb-9fa0-765c5faa83c6.png)
+Giải nén
 
 2. Mô tả luồng hoạt động của game
 2.1. Thành phần
