@@ -8,7 +8,16 @@ Mã LHP: INT 2215-2, N3
 Chọn Shooting Fish -> Tải xuống
 ![image](https://user-images.githubusercontent.com/79615121/116037181-eeb15580-a691-11eb-9f96-53a0aad1ba76.png)
 ![image](https://user-images.githubusercontent.com/79615121/116037295-14d6f580-a692-11eb-9fa0-765c5faa83c6.png)
-Giải nén
+Tại mục vừa download xuống, nhấn chuột phải chọn tệp và giải nén( Extract Here)
+![image](https://user-images.githubusercontent.com/79615121/116037742-b65e4700-a692-11eb-8bdd-5bbe50291aff.png)
+Vào thư mục vừa được giải nén
+![image](https://user-images.githubusercontent.com/79615121/116037890-eb6a9980-a692-11eb-8da9-7dedffc8e17f.png)
+Chọn Debug
+![image](https://user-images.githubusercontent.com/79615121/116038001-1359fd00-a693-11eb-8334-82ca967969aa.png)
+Chọn ShootingFish.exe
+![image](https://user-images.githubusercontent.com/79615121/116038089-308ecb80-a693-11eb-8bf4-02a900cdefeb.png)
+Và bắt đầu chơi game
+![image](https://user-images.githubusercontent.com/79615121/116038157-469c8c00-a693-11eb-9b5d-5d42aaae5165.png)
 
 2. Mô tả luồng hoạt động của game
 2.1. Thành phần
@@ -47,5 +56,5 @@ Giải nén
  - Tạo được giao diện đẹp hơn cho phần Game Over thay vì  dùng Message Box.
  - Lập trình tạo được phần Play Again, giúp chơi lại mà không cần thoát trò chơi rồi mở lại.
 
-3. Link video demo:
+4. Link video demo:
  
