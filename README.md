@@ -2,7 +2,7 @@
 - Thực hiện: Nguyễn Hà Trang - 20020482
 - Mã LHP: INT 2215-2, N3
 
-1. Hướng dẫn cài đặt
+# Hướng dẫn cài đặt
 - Link tải: https://drive.google.com/drive/folders/1VV3-_r49s7apKs6lWocaHqAF3SyqeM8j?fbclid=IwAR2Lim4Xds12u82czDnJ61HMp7kXbS49bjClr9tWENDxRlzYnbhn_js6inw
 - Chọn Shooting Fish -> Tải xuống
 ![image](https://user-images.githubusercontent.com/79615121/116037181-eeb15580-a691-11eb-9f96-53a0aad1ba76.png)
@@ -17,12 +17,12 @@
 ![image](https://user-images.githubusercontent.com/79615121/116038089-308ecb80-a693-11eb-8bf4-02a900cdefeb.png)
 ![image](https://user-images.githubusercontent.com/79615121/116038157-469c8c00-a693-11eb-9b5d-5d42aaae5165.png)
 
-2. Mô tả luồng hoạt động của game
-2.1. Thành phần
-2.1.1. Phần mở đầu
+# Mô tả luồng hoạt động của game
+1. Thành phần
+* Phần mở đầu
 - Lựa chọn Play(chơi).
 - Lựa chọn Exit(thoát game).
-2.1.2. Phần game chính
+* Phần game chính
 - Con tàu(đối tượng chính) có khả năng bắn đạn.
 - Cá di chuyển.
 - Bom di chuyển.
@@ -30,10 +30,10 @@
 - Điểm số( tăng và giảm tương ứng với vật bắn được).
 - Nhạc nền game.
 - Âm thanh khi đạn bắn và khi bắn trúng cá hoặc bom.
-2.1.3. Phần kết thúc game(hiện ra sau khi game over)
+* Phần kết thúc game(hiện ra sau khi game over)
 - Lựa chọn Quit(thoát game).
 - Lựa chọn Play Again(chơi lại). 
-2.2. Thao tác chơi
+2. Thao tác chơi
 - Với phần mở đầu, nhấn Play để chơi, nếu không nhấn Exit.
 - Dùng các phím lên, xuống, trái, phải để di chuyển con tàu đến vị trí mong muốn.
 - Sử dụng phím cách hoặc chuột trái để bắn đạn.
@@ -42,9 +42,9 @@
 - Khi bắn bom 3 lần( hết tim), game over.
 - Sau khi game over, chọn Quit để thoát, nếu muốn chơi lại chọn Play Agian.
 
-3. Nguồn tham khảo
- 3.1. Tham khảo về lập trình 1 game C++ cơ bản trên web https://phattrienphanmem123az.com/lap-trinh-game-cpp
- 3.2. Các sửa đổi:
+# Nguồn tham khảo
+1. Tham khảo về lập trình 1 game C++ cơ bản trên web https://phattrienphanmem123az.com/lap-trinh-game-cpp
+2. Các sửa đổi:
  - Tự thiết kế lại background, cùng việc thiết kế các nhân vật.
  - Ngoài việc sử dụng chuột để bắn, còn lập trình để sử dụng thêm phím cách.
  - Lập trình để có nhiều đối tượng bắn( cá, bom) thay vì chỉ một loại thread.
@@ -54,6 +54,6 @@
  - Tạo được giao diện đẹp hơn cho phần Game Over thay vì  dùng Message Box.
  - Lập trình tạo được phần Play Again, giúp chơi lại mà không cần thoát trò chơi rồi mở lại.
 
-4. Link video demo:
- Drive: https://drive.google.com/file/d/16fmVqqQny4AV8GcLJ4A1ZtXp8KqLnV5N/view?fbclid=IwAR0a8Jz-sYoUsw0V4Gd8_chsmtHnfCRNvFyrW8FpyiTcgP_ZFejYRjX7S2M
- Youtube: https://www.youtube.com/watch?v=H_vG9TUyuMY
+# Link video demo:
+- Drive: https://drive.google.com/file/d/16fmVqqQny4AV8GcLJ4A1ZtXp8KqLnV5N/view?fbclid=IwAR0a8Jz-sYoUsw0V4Gd8_chsmtHnfCRNvFyrW8FpyiTcgP_ZFejYRjX7S2M
+- Youtube: https://www.youtube.com/watch?v=H_vG9TUyuMY
