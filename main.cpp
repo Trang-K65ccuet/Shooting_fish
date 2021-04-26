@@ -48,7 +48,7 @@ bool Init()
 	g_font_text = TTF_OpenFont("text//gamecuben.ttf", 20);
 	g_font_menu= TTF_OpenFont("text//gamecuben.ttf", 50);
 	g_font_end=TTF_OpenFont("text//gamecuben.ttf", 30);
-	if (g_font_text == NULL && g_font_menu==NULL&&g_font_end==NULL)
+	if (g_font_text == NULL || g_font_menu==NULL ||g_font_end==NULL)
 	{
 		return false;
 	}
