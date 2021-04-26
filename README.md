@@ -4,19 +4,18 @@ Mã LHP: INT 2215-2, N3
 
 1. Hướng dẫn cài đặt
 - Link tải: https://drive.google.com/drive/folders/1VV3-_r49s7apKs6lWocaHqAF3SyqeM8j?fbclid=IwAR2Lim4Xds12u82czDnJ61HMp7kXbS49bjClr9tWENDxRlzYnbhn_js6inw
-- Cài đặt:
-Chọn Shooting Fish -> Tải xuống
+- Chọn Shooting Fish -> Tải xuống
 ![image](https://user-images.githubusercontent.com/79615121/116037181-eeb15580-a691-11eb-9f96-53a0aad1ba76.png)
 ![image](https://user-images.githubusercontent.com/79615121/116037295-14d6f580-a692-11eb-9fa0-765c5faa83c6.png)
-Tại mục vừa download xuống, nhấn chuột phải chọn tệp và giải nén( Extract Here)
+- Tại mục vừa download xuống, nhấn chuột phải chọn tệp và giải nén( Extract Here)
 ![image](https://user-images.githubusercontent.com/79615121/116037742-b65e4700-a692-11eb-8bdd-5bbe50291aff.png)
-Vào thư mục vừa được giải nén
+- Vào thư mục vừa được giải nén
 ![image](https://user-images.githubusercontent.com/79615121/116037890-eb6a9980-a692-11eb-8da9-7dedffc8e17f.png)
-Chọn Debug
+- Chọn Debug
 ![image](https://user-images.githubusercontent.com/79615121/116038001-1359fd00-a693-11eb-8334-82ca967969aa.png)
-Chọn ShootingFish.exe
+- Chọn ShootingFish.exe
 ![image](https://user-images.githubusercontent.com/79615121/116038089-308ecb80-a693-11eb-8bf4-02a900cdefeb.png)
-Và bắt đầu chơi game
+- Và bắt đầu chơi game
 ![image](https://user-images.githubusercontent.com/79615121/116038157-469c8c00-a693-11eb-9b5d-5d42aaae5165.png)
 
 2. Mô tả luồng hoạt động của game
