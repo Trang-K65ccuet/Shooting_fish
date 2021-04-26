@@ -1,0 +1,24 @@
+﻿  AmoObject.cpp
+  BaseObject.cpp
+  Common_Function.cpp
+  ExplosionObject.cpp
+  FishObject.cpp
+C:\Users\ADMIN\source\repos\ShootingFish\ShootingFish\FishObject.cpp(6,26): warning C4244: '=': conversion from 'double' to 'Sint16', possible loss of data
+  main.cpp
+C:\Users\ADMIN\source\repos\ShootingFish\ShootingFish\main.cpp(213,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ADMIN\source\repos\ShootingFish\ShootingFish\main.cpp(247,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ADMIN\source\repos\ShootingFish\ShootingFish\main.cpp(281,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ADMIN\source\repos\ShootingFish\ShootingFish\main.cpp(299,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\source\repos\ShootingFish\ShootingFish\main.cpp(300,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\source\repos\ShootingFish\ShootingFish\main.cpp(334,10): warning C4551: function call missing argument list
+  MainObject.cpp
+C:\Users\ADMIN\source\repos\ShootingFish\ShootingFish\MainObject.cpp(41,69): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\ADMIN\source\repos\ShootingFish\ShootingFish\MainObject.cpp(75,68): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\ADMIN\source\repos\ShootingFish\ShootingFish\MainObject.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ADMIN\source\repos\ShootingFish\ShootingFish\MainObject.cpp(128,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ADMIN\source\repos\ShootingFish\ShootingFish\MainObject.cpp(130,11): warning C4018: '<': signed/unsigned mismatch
+  PlayerPower.cpp
+C:\Users\ADMIN\source\repos\ShootingFish\ShootingFish\PlayerPower.cpp(23,21): warning C4018: '<': signed/unsigned mismatch
+  TextObject.cpp
+  Generating Code...
+  ShootingFish.vcxproj -> C:\Users\ADMIN\source\repos\ShootingFish\Debug\ShootingFish.exe
