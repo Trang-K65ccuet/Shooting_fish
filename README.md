@@ -19,10 +19,10 @@
 
 # Mô tả luồng hoạt động của game
 1. Thành phần
-*Phần mở đầu
+* *Phần mở đầu
 - Lựa chọn Play(chơi).
 - Lựa chọn Exit(thoát game).
-*Phần game chính
+* *Phần game chính
 - Con tàu(đối tượng chính) có khả năng bắn đạn.
 - Cá di chuyển.
 - Bom di chuyển.
@@ -30,7 +30,7 @@
 - Điểm số( tăng và giảm tương ứng với vật bắn được).
 - Nhạc nền game.
 - Âm thanh khi đạn bắn và khi bắn trúng cá hoặc bom.
-*Phần kết thúc game(hiện ra sau khi game over)
+* *Phần kết thúc game(hiện ra sau khi game over)
 - Lựa chọn Quit(thoát game).
 - Lựa chọn Play Again(chơi lại). 
 2. Thao tác chơi
