@@ -1,4 +1,4 @@
-# BTL_Shooting_Fish
+# Shooting Fish
 Thực hiện: Nguyễn Hà Trang - 20020482
 Mã LHP: INT 2215-2, N3
 
