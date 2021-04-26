@@ -26,7 +26,7 @@
 - Con tàu(đối tượng chính) có khả năng bắn đạn.
 - Cá di chuyển.
 - Bom di chuyển.
-- Trái tim( biểu thị mạng của người chơi).
+- Trái tim( biểu thị mạng của người chơi)
 - Điểm số( tăng và giảm tương ứng với vật bắn được).
 - Nhạc nền game.
 - Âm thanh khi đạn bắn và khi bắn trúng cá hoặc bom.
