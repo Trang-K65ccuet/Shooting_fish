@@ -13,9 +13,8 @@ Mã LHP: INT 2215-2, N3
 ![image](https://user-images.githubusercontent.com/79615121/116037890-eb6a9980-a692-11eb-8da9-7dedffc8e17f.png)
 - Chọn Debug
 ![image](https://user-images.githubusercontent.com/79615121/116038001-1359fd00-a693-11eb-8334-82ca967969aa.png)
-- Chọn ShootingFish.exe
+- Chọn ShootingFish.exe và bắt đầu chơi game
 ![image](https://user-images.githubusercontent.com/79615121/116038089-308ecb80-a693-11eb-8bf4-02a900cdefeb.png)
-- Và bắt đầu chơi game
 ![image](https://user-images.githubusercontent.com/79615121/116038157-469c8c00-a693-11eb-9b5d-5d42aaae5165.png)
 
 2. Mô tả luồng hoạt động của game
