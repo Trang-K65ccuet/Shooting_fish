@@ -1,6 +1,6 @@
 # Shooting Fish
-Thực hiện: Nguyễn Hà Trang - 20020482
-Mã LHP: INT 2215-2, N3
+- Thực hiện: Nguyễn Hà Trang - 20020482
+- Mã LHP: INT 2215-2, N3
 
 1. Hướng dẫn cài đặt
 - Link tải: https://drive.google.com/drive/folders/1VV3-_r49s7apKs6lWocaHqAF3SyqeM8j?fbclid=IwAR2Lim4Xds12u82czDnJ61HMp7kXbS49bjClr9tWENDxRlzYnbhn_js6inw
@@ -43,8 +43,8 @@ Mã LHP: INT 2215-2, N3
 - Sau khi game over, chọn Quit để thoát, nếu muốn chơi lại chọn Play Agian.
 
 3. Nguồn tham khảo
- Tham khảo về lập trình 1 game C++ cơ bản trên web https://phattrienphanmem123az.com/lap-trinh-game-cpp
- Các sửa đổi:
+ 3.1. Tham khảo về lập trình 1 game C++ cơ bản trên web https://phattrienphanmem123az.com/lap-trinh-game-cpp
+ 3.2. Các sửa đổi:
  - Tự thiết kế lại background, cùng việc thiết kế các nhân vật.
  - Ngoài việc sử dụng chuột để bắn, còn lập trình để sử dụng thêm phím cách.
  - Lập trình để có nhiều đối tượng bắn( cá, bom) thay vì chỉ một loại thread.
