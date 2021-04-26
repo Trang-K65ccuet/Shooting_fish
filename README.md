@@ -55,4 +55,5 @@ Mã LHP: INT 2215-2, N3
  - Lập trình tạo được phần Play Again, giúp chơi lại mà không cần thoát trò chơi rồi mở lại.
 
 4. Link video demo:
- 
+ Drive: https://drive.google.com/file/d/16fmVqqQny4AV8GcLJ4A1ZtXp8KqLnV5N/view?fbclid=IwAR0a8Jz-sYoUsw0V4Gd8_chsmtHnfCRNvFyrW8FpyiTcgP_ZFejYRjX7S2M
+ Youtube: https://www.youtube.com/watch?v=H_vG9TUyuMY
