@@ -3,7 +3,7 @@
 - Mã LHP: INT 2215-2, N3
 
 # Hướng dẫn cài đặt
-- Link tải: https://drive.google.com/drive/folders/1VV3-_r49s7apKs6lWocaHqAF3SyqeM8j?usp=sharing
+- Link tải: https://drive.google.com/drive/folders/1D2Vka0Si9BvL1EX4PXYJI5DTEK3tsEm0?usp=sharing
 - Chọn Shooting Fish -> Tải xuống
 ![image](https://user-images.githubusercontent.com/79615121/116037181-eeb15580-a691-11eb-9f96-53a0aad1ba76.png)
 ![image](https://user-images.githubusercontent.com/79615121/116037295-14d6f580-a692-11eb-9fa0-765c5faa83c6.png)
