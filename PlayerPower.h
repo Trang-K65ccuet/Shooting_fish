@@ -9,7 +9,6 @@ public:
 	PlayerPower();
 	~PlayerPower();
 
-	void SetNumber(const int& num) { number_ = num; }
 	void AddPos(const int& xpos);
 	void Render(SDL_Surface* des);
 	void Init();
