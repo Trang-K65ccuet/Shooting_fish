@@ -17,8 +17,7 @@ public:
 
 	void HandleInputAction(SDL_Event events, Mix_Chunk* bullet_sound);
 	void HandleMove();
-
-	void SetAmoList(std::vector<AmoObject*> amo_list) { p_amo_list = amo_list; }
+	
 	std::vector<AmoObject*> GetAMoList() const { return p_amo_list; }
 
 	void MakeAmo(SDL_Surface* des);
